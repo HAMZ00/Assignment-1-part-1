@@ -1,2 +1,2 @@
-# Assignment-1-part-1
+# Assignment-1-ZAK-NIXOR-COLLEGE
 input member name and id for a club
